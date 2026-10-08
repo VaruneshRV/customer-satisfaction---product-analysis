@@ -1,4 +1,4 @@
-# 📊 Customer Satisfaction & Product Analytics (NxtJob.ai Case Study)
+# 📊 Client Satisfaction & Product Analytics (NxtJob.ai Case Study)
 
 An end-to-end customer satisfaction, client experience, and product effectiveness analysis evaluating NxtJob.ai's AI resume optimization and automated LinkedIn referral features across 50 mid-to-senior working professional clients.
 
